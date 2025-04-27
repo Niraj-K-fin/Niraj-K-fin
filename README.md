@@ -1,5 +1,17 @@
 <h2 align="left">Hi 👋! My name is Niraj and I'm a Quantitative Research Expert, from India</h2>
 
+🚀 Computer Engineering student passionate about tech, business, and fintech innovation
+
+🛠️ Love building smart solutions and solving real-world problems
+
+📚 Lifelong learner — always curious about new ideas and technologies
+
+☕ Coffee, code, and creativity fuel my days
+
+🌟 Focused on turning ideas into real-world impact
+
+📬 Open to connecting, collaborating, and creating awesome things together!
+
 ###
 
 <br clear="both">
