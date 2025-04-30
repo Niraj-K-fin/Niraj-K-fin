@@ -13,12 +13,10 @@
 📬 Open to connecting, collaborating, and creating awesome things together!
 
 
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Niraj-K-fin/Niraj-K-fin/output/snake.svg" alt="Snake animation" />
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
