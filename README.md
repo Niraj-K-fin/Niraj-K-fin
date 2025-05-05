@@ -1,6 +1,6 @@
 <div align="center">
-    <a href="https://github.com/nirajkofficial"><img src="https://img.shields.io/github/followers/nirajkofficial?label=Followers&style=social" alt="GitHub Badge"></a>
-    <a href="https://github.com/nirajkofficial"><img src="https://komarev.com/ghpvc/?username=nirajkofficial&color=blue&style=flat-square&label=Profile+Views" alt="Profile views"></a>
+    <a href="https://github.com/niraj-k-fin"><img src="https://img.shields.io/github/followers/niraj-k-fin?label=Followers&style=social" alt="GitHub Badge"></a>
+    <a href="https://github.com/niraj-k-fin"><img src="https://komarev.com/ghpvc/?username=niraj-k-fin&color=blue&style=flat-square&label=Profile+Views" alt="Profile views"></a>
 </div>
 <div align="centre">
   <img src="ascii.jpg" alt="My ASCII Profile">
@@ -8,19 +8,17 @@
 
 <br>
 
-## 📈Quantitative Analytics Explorer🔍
-
 <div align="center">
   <table>
     <tr>
       <td>
         <a href="javascript:void(0);">
-          <img src="https://github-readme-stats.vercel.app/api?username=nirajkofficial&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=niraj-k-fin&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
         </a>
       </td>
       <td>
         <a href="javascript:void(0);">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirajkofficial&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="GitHub Streak" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=niraj-k-fin&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="GitHub Streak" />
         </a>
       </td>
     </tr>
