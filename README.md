@@ -1,12 +1,9 @@
-<!-- Banner Image -->
-
-<div align="centre">
-  <img src="ascii.jpg" alt="My ASCII Profile">
-</div>
-
 <div align="center">
     <a href="https://github.com/nirajkofficial"><img src="https://img.shields.io/github/followers/nirajkofficial?label=Followers&style=social" alt="GitHub Badge"></a>
     <a href="https://github.com/nirajkofficial"><img src="https://komarev.com/ghpvc/?username=nirajkofficial&color=blue&style=flat-square&label=Profile+Views" alt="Profile views"></a>
+</div>
+<div align="centre">
+  <img src="ascii.jpg" alt="My ASCII Profile">
 </div>
 
 <br>
@@ -115,7 +112,6 @@
 
 ## 📌Charting the Cosmos of Thought : A Symphony of Skills and Dreams🌌
 
-<!-- Animated skills diagram with hover effect -->
 ```mermaid
 mindmap
   root((Skills))
@@ -156,7 +152,6 @@ mindmap
 
 ## 🗺️My Learning Roadmap
 
-<!-- Interactive timeline with animations -->
 ```mermaid
 gantt
     title Learning Roadmap 2025
@@ -172,7 +167,6 @@ gantt
     Advanced Econometrics       :2025-05, 3M
 ```
 
-<!-- 3D animated contribution calendar -->
 <div align="center">
   <a href="https://github.com/niraj-k-fin">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=niraj-k-fin&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" width="100%">
@@ -180,7 +174,6 @@ gantt
 </div>
 
 <div align="center">
-  <!-- Social media links with hover animations -->
   <a href="https://www.linkedin.com/in/nirajkofficial" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -194,8 +187,6 @@ gantt
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
-
-<!-- Footer with animation -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer" width="100%">
 </div>
