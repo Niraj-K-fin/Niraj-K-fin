@@ -25,8 +25,6 @@
   </table>
 </div>
 
-## 🛠️ My Digital Arsenal 🧑‍💻
-
 <div align="center">
   <table>
     <tr>
@@ -108,8 +106,6 @@
   </table>
 </div>
 
-## 📌Charting the Cosmos of Thought : A Symphony of Skills and Dreams🌌
-
 ```mermaid
 mindmap
   root((Skills))
@@ -147,8 +143,6 @@ mindmap
       Calculus
       Numericaal Methods
 ```
-
-## 🗺️My Learning Roadmap
 
 ```mermaid
 gantt
