@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 
 <div align="centre">
-  <img src="asci.gif" alt="My ASCII gif">
+  <img src="ascii.jpg" alt="My ASCII Profile">
 </div>
 
 <div align="center">
