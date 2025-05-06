@@ -18,7 +18,7 @@
       </td>
       <td>
         <a href="javascript:void(0);">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=niraj-k-fin&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="GitHub Streak" />
+          <img src="github_data.png" alt="GitHub Streak" />
         </a>
       </td>
     </tr>
