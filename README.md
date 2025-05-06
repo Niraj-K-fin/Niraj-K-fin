@@ -7,8 +7,9 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=niraj-k-fin.niraj-k-fin" alt="visitors"/>
     <a href="https://github.com/niraj-k-fin"><img src="https://img.shields.io/github/followers/niraj-k-fin?label=Followers&style=social" alt="GitHub Badge"></a>
     <a href="https://github.com/niraj-k-fin"><img src="https://komarev.com/ghpvc/?username=niraj-k-fin&color=blue&style=flat-square&label=Profile+Views" alt="Profile views"></a>
-    <a href="https://www.openstreetmap.org/?mlat=22.4609&mlon=69.9669#map=17/22.4609/69.9669">
+    <a href="https://www.google.co.in/maps/place/K.V.+Samana/@22.1276401,70.1620009,808m/data=!3m2!1e3!4b1!4m6!3m5!1s0x39579df40faedbed:0x2420b015f99de6e8!8m2!3d22.1276352!4d70.1645758!16s%2Fg%2F11cnc20k9r?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D">
     <img src="https://img.shields.io/badge/Location-AFS%20Samana,%20India-blue?style=flat-square&logo=googlemaps" alt="Location Badge" />
+  </a>
   </a>
      <a href="https://www.openstreetmap.org/?mlat=31.0785&mlon=75.2993#map=17/31.0785/75.2993">
     <img src="https://img.shields.io/badge/Location-LPU%20Jalandhar,%20India-blue?style=flat-square&logo=googlemaps" alt="Location Badge" />
