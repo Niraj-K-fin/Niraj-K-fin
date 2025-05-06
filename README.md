@@ -11,7 +11,7 @@
 <div align="center">
   <table>
     <tr>
-      <td>
+      <td height="100">
         <a href="javascript:void(0);">
           <img src="https://github-readme-stats.vercel.app/api?username=niraj-k-fin&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
         </a>
