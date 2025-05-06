@@ -1,24 +1,29 @@
 <div align="center">
+    <a href="https://github.com/niraj-k-fin/niraj-k-fin"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
+    <a href="https://github.com/niraj-k-fin/niraj-k-fin/graphs/contributors"><img src="https://img.shields.io/github/contributors/niraj-k-fin/niraj-k-fin?color=blue"></a>
+    <a href="https://github.com/niraj-k-fin/niraj-k-fin/stargazers"><img src="https://img.shields.io/github/stars/niraj-k-fin/niraj-k-fin.svg?logo=github"></a>
+    <a href="https://github.com/niraj-k-fin/niraj-k-fin/network/members"><img src="https://img.shields.io/github/forks/niraj-k-fin/niraj-k-fin.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=niraj-k-fin.niraj-k-fin" alt="visitors"/>
     <a href="https://github.com/niraj-k-fin"><img src="https://img.shields.io/github/followers/niraj-k-fin?label=Followers&style=social" alt="GitHub Badge"></a>
     <a href="https://github.com/niraj-k-fin"><img src="https://komarev.com/ghpvc/?username=niraj-k-fin&color=blue&style=flat-square&label=Profile+Views" alt="Profile views"></a>
 </div>
+
 <div align="centre">
   <img src="ascii.jpg" alt="My ASCII Profile">
 </div>
 
-<br>
-
 <div align="center">
   <table>
     <tr>
-      <td height="100">
+      <td>
         <a href="javascript:void(0);">
           <img src="https://github-readme-stats.vercel.app/api?username=niraj-k-fin&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
         </a>
       </td>
-      <td width="400">
+      <td>
         <a href="javascript:void(0);">
-          <img src="github_data.png" alt="GitHub Streak" />
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niraj-K-fin"></img>
         </a>
       </td>
     </tr>
