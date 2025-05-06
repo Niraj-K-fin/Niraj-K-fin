@@ -12,7 +12,7 @@
 <div align="centre">
   <img src="ascii.jpg" alt="My ASCII Profile">
 </div>
-
+<br>
 <div align="center">
   <table>
     <tr>
@@ -29,7 +29,6 @@
     </tr>
   </table>
 </div>
-
 <div align="center">
   <table>
     <tr>
