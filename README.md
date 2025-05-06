@@ -1,12 +1,16 @@
 <div align="center">
     <a href="https://github.com/niraj-k-fin/niraj-k-fin"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
     <a href="https://github.com/niraj-k-fin/niraj-k-fin/graphs/contributors"><img src="https://img.shields.io/github/contributors/niraj-k-fin/niraj-k-fin?color=blue"></a>
     <a href="https://github.com/niraj-k-fin/niraj-k-fin/stargazers"><img src="https://img.shields.io/github/stars/niraj-k-fin/niraj-k-fin.svg?logo=github"></a>
-    <a href="https://github.com/niraj-k-fin/niraj-k-fin/network/members"><img src="https://img.shields.io/github/forks/niraj-k-fin/niraj-k-fin.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=niraj-k-fin.niraj-k-fin" alt="visitors"/>
     <a href="https://github.com/niraj-k-fin"><img src="https://img.shields.io/github/followers/niraj-k-fin?label=Followers&style=social" alt="GitHub Badge"></a>
     <a href="https://github.com/niraj-k-fin"><img src="https://komarev.com/ghpvc/?username=niraj-k-fin&color=blue&style=flat-square&label=Profile+Views" alt="Profile views"></a>
+    <a href="https://www.openstreetmap.org/?mlat=22.4609&mlon=69.9669#map=17/22.4609/69.9669">
+    <img src="https://img.shields.io/badge/Location-AFS%20Samana,%20India-blue?style=flat-square&logo=googlemaps" alt="Location Badge" />
+  </a>
+     <a href="https://www.openstreetmap.org/?mlat=31.0785&mlon=75.2993#map=17/31.0785/75.2993">
+    <img src="https://img.shields.io/badge/Location-LPU%20Jalandhar,%20India-blue?style=flat-square&logo=googlemaps" alt="Location Badge" />
+  </a>
 </div>
 
 <div align="centre">
@@ -177,8 +181,6 @@ gantt
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
-
-<br>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
