@@ -231,7 +231,7 @@ gantt
 
 <div align="center">
   <a href="https://github.com/niraj-k-fin">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=niraj-k-fin&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" width="100%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=niraj-k-fin&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" width="100%" height="100%>
   </a>
 </div>
 
