@@ -1,12 +1,5 @@
 ![Loading Status UPDATED](https://img.shields.io/badge/Loaded_Successfully-Done👍-brightgreen)'
 
-```bash
- N   N  III  RRRR    A   JJJ   K   K U   U  M   M  A   RRRR
- NN  N   I   R   R  A A    J    K  K  U   U  MM MM A A  R   R
- N N N   I   RRRR  AAAAA    J    KKK   U   U  M M M AAAAA RRRR
- N  NN   I   R  R  A   A  J J    K  K  U   U  M   M A   A R  R
- N   N  III  R   R A   A  JJJ   K   K  UUUU  M   M A   A R   R
-```
 <!-- Profile Loading -->
 
 ```bash
@@ -258,6 +251,38 @@ gantt
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
+
+```bash
+
+
+___  ___          _                 _ _   _       _                _____            
+|  \/  |         | |               (_) | | |     | |              |  ___|           
+| .  . | __ _  __| | ___  __      ___| |_| |__   | |     _____   _| |__             
+| |\/| |/ _` |/ _` |/ _ \ \ \ /\ / / | __| '_ \  | |    / _ \ \ / /  __|            
+| |  | | (_| | (_| |  __/  \ V  V /| | |_| | | | | |___| (_) \ V /| |___            
+\_|  |_/\__,_|\__,_|\___|   \_/\_/ |_|\__|_| |_| \_____/\___/ \_/ \____/            
+                                                                                    
+                                                                                    
+ _             _   _ _           _   _   __                                         
+| |           | \ | (_)         (_) | | / /                                         
+| |__  _   _  |  \| |_ _ __ __ _ _  | |/ / _   _ _ __ ___   __ _ _ __               
+| '_ \| | | | | . ` | | '__/ _` | | |    \| | | | '_ ` _ \ / _` | '__|              
+| |_) | |_| | | |\  | | | | (_| | | | |\  \ |_| | | | | | | (_| | |                 
+|_.__/ \__, | \_| \_/_|_|  \__,_| | \_| \_/\__,_|_| |_| |_|\__,_|_|                 
+        __/ |                  _/ |                                                 
+       |___/                  |__/                                                  
+     ______ ______            _ _     _____ _             _   _       _       ______
+    / / / / |  _  \          ( ) |   |  __ (_)           | | | |     | |     / / / /
+   / / / /  | | | |___  _ __ |/| |_  | |  \/___   _____  | | | |_ __ | |    / / / / 
+  / / / /   | | | / _ \| '_ \  | __| | | __| \ \ / / _ \ | | | | '_ \| |   / / / /  
+ / / / /    | |/ / (_) | | | | | |_  | |_\ \ |\ V /  __/ | |_| | |_) |_|  / / / /   
+/_/_/_/     |___/ \___/|_| |_|  \__|  \____/_| \_/ \___|  \___/| .__/(_) /_/_/_/    
+                                                               | |                  
+                                                               |_|                  
+                             
+
+```
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer" width="100%">
 </div>
