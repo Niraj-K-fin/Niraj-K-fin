@@ -60,14 +60,14 @@
   </table>
 </div>
 
-| Skill                | Level           | Progress              | Years of Exp | Used In Projects | Improving? |
-|---------------------|-----------------|------------------------|--------------|------------------|------------|
-| 🐍 Python           | Mastery         | ▓▓▓▓▓▓▓▓▓░ 90%        | 3+ yrs       | ✅               | 🔁 Yes     |
-| 📉 Quant Finance    | Advanced        | ▓▓▓▓▓▓▓▓░░ 85%        | 2 yrs        | ✅               | ✅ Absolutely |
-| 🤖 Machine Learning | Intermediate    | ▓▓▓▓▓▓▓░░░ 70%        | 1.5 yrs      | ✅               | 🔁 Yes     |
-| 💊 HealthTech AI    | In Progress     | ▓▓▓▓▓░░░░░ 50%        | < 1 yr       | ✅               | ✅ Yes     |
-| 📈 Statistics       | Solid           | ▓▓▓▓▓▓▓▓░░ 80%        | 2 yrs        | ✅               | 🔁 Yes     |
-| 🧠 Problem Solving  | 🔥 Always Leveling | ▓▓▓▓▓▓▓▓▓▓ 100%     | Lifelong     | ✅               | 🔁 Always  |
+   | Skill                | Level           | Progress              | Years of Exp | Used In Projects | Improving? |
+   |---------------------|-----------------|------------------------|--------------|------------------|------------|
+   | 🐍 Python           | Mastery         | ▓▓▓▓▓▓▓▓▓░ 90%        | 3+ yrs       | ✅               | 🔁 Yes     |
+   | 📉 Quant Finance    | Advanced        | ▓▓▓▓▓▓▓▓░░ 85%        | 2 yrs        | ✅               | ✅ Absolutely |
+   | 🤖 Machine Learning | Intermediate    | ▓▓▓▓▓▓▓░░░ 70%        | 1.5 yrs      | ✅               | 🔁 Yes     |
+   | 💊 HealthTech AI    | In Progress     | ▓▓▓▓▓░░░░░ 50%        | < 1 yr       | ✅               | ✅ Yes     |
+   | 📈 Statistics       | Solid           | ▓▓▓▓▓▓▓▓░░ 80%        | 2 yrs        | ✅               | 🔁 Yes     |
+   | 🧠 Problem Solving  | 🔥 Always Leveling | ▓▓▓▓▓▓▓▓▓▓ 100%     | Lifelong     | ✅               | 🔁 Always  |
 
 <!-- My Tech Stack -->
 <div align="center">
