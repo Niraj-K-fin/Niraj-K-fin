@@ -1,3 +1,5 @@
+<!-- Profile Loading -->
+
 ```bash
 > Loading...
 > Initializing profile...
@@ -41,6 +43,8 @@
   <img src="ascii.jpg" alt="My ASCII Profile">
 </div>
 
+<br>
+
 <!-- GitHub Stats -->
 
 <div align="center">
@@ -59,6 +63,19 @@
     </tr>
   </table>
 </div>
+
+<h2> ⚡ From Code to Cosmos : My Visionary Journey Through Data and Innovation 🌠 </h2>
+
+```mermaid
+graph LR
+    A[🎓 Aug' 2023<br>Started CSE @ LPU] --> B[🌍 2024<br>Campus Ambassador<br>Teach For India]
+    B --> C[🧠 2025<br>Silver Contributor<br>WorldQuant BRAIN]
+    C --> D[💹 2025<br>Quant Strategy Builder<br>HealthTech ML Developer]
+    D --> E[🚀 2026<br>Scaling AI in<br>Finance & Healthcare]
+    E --> F[🔮 2027<br>DeFi & BioAI Innovator<br>Global Impact]
+```
+
+<!-- Skills and Domains Charting -->
 
 | Skill                | Level           | Progress              | Years of Exp | Used In Projects | Improving? | Last Updated  |
 |---------------------|-----------------|------------------------|--------------|------------------|------------|---------------|
