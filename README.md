@@ -49,23 +49,14 @@
 
 <!-- GitHub Stats -->
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="javascript:void(0);">
+<div>
+<a href="javascript:void(0);">
           <img src="https://github-readme-stats.vercel.app/api?username=niraj-k-fin&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" />
         </a>
-      </td>
-      <td>
-        <a href="javascript:void(0);">
+<a href="javascript:void(0);">
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niraj-K-fin"></img>
         </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
+        </div>
 <h2> ⚡ From Code to Cosmos : My Visionary Journey Through Data and Innovation 🌠 </h2>
 
 ```mermaid
