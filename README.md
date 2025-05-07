@@ -1,4 +1,4 @@
-![Loading Status UPDATED](https://img.shields.io/badge/Loaded_Successfully-Done👍-brightgreen)'
+![Loading Status UPDATED](https://img.shields.io/badge/Loaded_Successfully-Done👍-brightgreen)
 
 <!-- Profile Loading -->
 
