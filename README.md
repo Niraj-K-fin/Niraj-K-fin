@@ -1,5 +1,12 @@
-![Loading Status UPDATED](https://img.shields.io/badge/Loaded_Successfully-Done👍-brightgreen)
+![Loading Status UPDATED](https://img.shields.io/badge/Loaded_Successfully-Done👍-brightgreen)'
 
+```bash
+ N   N  III  RRRR    A   JJJ   K   K U   U  M   M  A   RRRR
+ NN  N   I   R   R  A A    J    K  K  U   U  MM MM A A  R   R
+ N N N   I   RRRR  AAAAA    J    KKK   U   U  M M M AAAAA RRRR
+ N  NN   I   R  R  A   A  J J    K  K  U   U  M   M A   A R  R
+ N   N  III  R   R A   A  JJJ   K   K  UUUU  M   M A   A R   R
+```
 <!-- Profile Loading -->
 
 ```bash
