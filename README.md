@@ -1,3 +1,11 @@
+```bash
+> Loading...
+> Initializing profile...
+> Role: Quantitative Researcher | HealthTech Innovator | Tech-Economist
+> Interests: FinTech · Complex Systems · DeFi · AI & Data Science
+> Status: Always building. Always learning.
+> Profile Load Completed⭐
+```
 <!-- Stats and Links Badges -->
 
 <div align="center">
@@ -33,7 +41,6 @@
   <img src="ascii.jpg" alt="My ASCII Profile">
 </div>
 
-
 <!-- GitHub Stats -->
 
 <div align="center">
@@ -52,6 +59,15 @@
     </tr>
   </table>
 </div>
+
+| Skill                | Level           | Progress              | Years of Exp | Used In Projects | Improving? |
+|---------------------|-----------------|------------------------|--------------|------------------|------------|
+| 🐍 Python           | Mastery         | ▓▓▓▓▓▓▓▓▓░ 90%        | 3+ yrs       | ✅               | 🔁 Yes     |
+| 📉 Quant Finance    | Advanced        | ▓▓▓▓▓▓▓▓░░ 85%        | 2 yrs        | ✅               | ✅ Absolutely |
+| 🤖 Machine Learning | Intermediate    | ▓▓▓▓▓▓▓░░░ 70%        | 1.5 yrs      | ✅               | 🔁 Yes     |
+| 💊 HealthTech AI    | In Progress     | ▓▓▓▓▓░░░░░ 50%        | < 1 yr       | ✅               | ✅ Yes     |
+| 📈 Statistics       | Solid           | ▓▓▓▓▓▓▓▓░░ 80%        | 2 yrs        | ✅               | 🔁 Yes     |
+| 🧠 Problem Solving  | 🔥 Always Leveling | ▓▓▓▓▓▓▓▓▓▓ 100%     | Lifelong     | ✅               | 🔁 Always  |
 
 <!-- My Tech Stack -->
 <div align="center">
