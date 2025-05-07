@@ -1,3 +1,5 @@
+<!-- Stats and Links Badges -->
+
 <div align="center">
     <a href="https://github.com/niraj-k-fin/niraj-k-fin"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
@@ -12,13 +14,16 @@
   <a href="https://www.google.co.in/maps/place/Lovely+Professional+University/@31.2553967,75.7022929,746m/data=!3m2!1e3!4b1!4m6!3m5!1s0x391a5f5e9c489cf3:0x4049a5409d53c300!8m2!3d31.2553921!4d75.7048678!16s%2Fm%2F02wbfhd?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D">
   <img src="https://img.shields.io/badge/Location-LPU%20Jalandhar,%20India-blue?style=flat-square&logo=googlemaps" alt="Location Badge" />
 </a>
-
 </div>
+
+<!-- My ASCII Profile -->
 
 <div align="centre">
   <img src="ascii.jpg" alt="My ASCII Profile">
 </div>
-<br>
+
+<!-- GitHub Stats -->
+
 <div align="center">
   <table>
     <tr>
@@ -35,6 +40,8 @@
     </tr>
   </table>
 </div>
+
+<!-- My Tech Stack -->
 <div align="center">
   <table>
     <tr>
@@ -116,6 +123,8 @@
   </table>
 </div>
 
+<!-- Skills MindMap using Mermaid -->
+
 ```mermaid
 mindmap
   root((Skills))
@@ -153,6 +162,7 @@ mindmap
       Calculus
       Numericaal Methods
 ```
+<!-- Learning RoadMap using Mermaid -->
 
 ```mermaid
 gantt
@@ -169,11 +179,15 @@ gantt
     Advanced Econometrics       :2025-05, 3M
 ```
 
+<!-- GitHuB Activity Graph -->
+
 <div align="center">
   <a href="https://github.com/niraj-k-fin">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=niraj-k-fin&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" width="100%">
   </a>
 </div>
+
+<!-- Contact Me -->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nirajkofficial" target="_blank">
@@ -183,6 +197,8 @@ gantt
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
+
+<!-- Random Quote Updates with Footer Animation -->
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
