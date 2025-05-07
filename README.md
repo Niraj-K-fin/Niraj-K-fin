@@ -8,7 +8,12 @@
 > Role: Quantitative Researcher | HealthTech Innovator | Tech-Economist
 > Interests: FinTech · Complex Systems · DeFi · AI & Data Science
 > Status: Always building. Always learning.
-> Profile Load Completed⭐
+> Profile Load Completed⭐                          
+> | \ | (_)_ __ __ _ (_) | |/ /   _ _ __ ___   __ _ _ __ 
+  |  \| | | '__/ _` || | | ' / | | | '_ ` _ \ / _` | '__|
+  | |\  | | | | (_| || | | . \ |_| | | | | | | (_| | |   
+  |_| \_|_|_|  \__,_|/ | |_|\_\__,_|_| |_| |_|\__,_|_|   
+                 |__/                                  
 ```
 <!-- Stats and Links Badges -->
 
