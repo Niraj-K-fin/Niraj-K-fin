@@ -14,6 +14,17 @@
   <a href="https://www.google.co.in/maps/place/Lovely+Professional+University/@31.2553967,75.7022929,746m/data=!3m2!1e3!4b1!4m6!3m5!1s0x391a5f5e9c489cf3:0x4049a5409d53c300!8m2!3d31.2553921!4d75.7048678!16s%2Fm%2F02wbfhd?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D">
   <img src="https://img.shields.io/badge/Location-LPU%20Jalandhar,%20India-blue?style=flat-square&logo=googlemaps" alt="Location Badge" />
 </a>
+<a href="https://www.linkedin.com/in/nirajkofficial/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
+
+<a href="https://wa.me/+919279337152" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" />
+</a>
+<a href="https://www.instagram.com/nirajkumar_real/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge" />
+</a>
+
 </div>
 
 <!-- My ASCII Profile -->
