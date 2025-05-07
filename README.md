@@ -33,7 +33,6 @@
   <img src="ascii.jpg" alt="My ASCII Profile">
 </div>
 
-<br>
 
 <!-- GitHub Stats -->
 
