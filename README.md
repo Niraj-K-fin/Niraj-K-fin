@@ -1,283 +1,111 @@
-![Loading Status UPDATED](https://img.shields.io/badge/Loaded_Successfully-Done👍-brightgreen)
-
-<!-- Profile Loading -->
-
-```bash
-> Loading...
-> Initializing profile...
-> Role: Quantitative Researcher | HealthTech Innovator | Tech-Economist
-> Interests: FinTech · Complex Systems · DeFi · AI & Data Science
-> Status: Always building. Always learning.
-> Profile Load Completed⭐                          
-> | \ | (_)_ __ __ _ (_) | |/ /   _ _ __ ___   __ _ _ __ 
-  |  \| | | '__/ _` || | | ' / | | | '_ ` _ \ / _` | '__|
-  | |\  | | | | (_| || | | . \ |_| | | | | | | (_| | |   
-  |_| \_|_|_|  \__,_|/ | |_|\_\__,_|_| |_| |_|\__,_|_|   
-                 |__/                                  
-```
-<!-- Stats and Links Badges -->
-
 <div align="center">
-    <a href="https://github.com/niraj-k-fin/niraj-k-fin"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
-    <a href="https://github.com/niraj-k-fin/niraj-k-fin/graphs/contributors"><img src="https://img.shields.io/github/contributors/niraj-k-fin/niraj-k-fin?color=blue"></a>
-    <a href="https://github.com/niraj-k-fin/niraj-k-fin/stargazers"><img src="https://img.shields.io/github/stars/niraj-k-fin/niraj-k-fin.svg?logo=github"></a>
-    <a href="https://github.com/niraj-k-fin/niraj-k-fin/network/members"><img src="https://img.shields.io/github/forks/niraj-k-fin/niraj-k-fin.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=niraj-k-fin.niraj-k-fin" alt="visitors"/>
-    <a href="https://github.com/niraj-k-fin"><img src="https://img.shields.io/github/followers/niraj-k-fin?label=Followers&style=social" alt="GitHub Badge"></a>
-    <a href="https://github.com/niraj-k-fin"><img src="https://komarev.com/ghpvc/?username=niraj-k-fin&color=blue&style=flat-square&label=Profile+Views" alt="Profile views"></a>
-    <a href="https://www.google.co.in/maps/place/K.V.+Samana/@22.1276401,70.1620009,808m/data=!3m2!1e3!4b1!4m6!3m5!1s0x39579df40faedbed:0x2420b015f99de6e8!8m2!3d22.1276352!4d70.1645758!16s%2Fg%2F11cnc20k9r?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D">
-    <img src="https://img.shields.io/badge/Location-AFS%20Samana,%20India-blue?style=flat-square&logo=googlemaps" alt="Location Badge" />
-  <a href="https://www.google.co.in/maps/place/Lovely+Professional+University/@31.2553967,75.7022929,746m/data=!3m2!1e3!4b1!4m6!3m5!1s0x391a5f5e9c489cf3:0x4049a5409d53c300!8m2!3d31.2553921!4d75.7048678!16s%2Fm%2F02wbfhd?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D">
-  <img src="https://img.shields.io/badge/Location-LPU%20Jalandhar,%20India-blue?style=flat-square&logo=googlemaps" alt="Location Badge" />
-</a>
-<a href="https://www.linkedin.com/in/nirajkofficial/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-</a>
 
-<a href="https://wa.me/+919279337152" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" />
-</a>
-<a href="https://www.instagram.com/nirajkumar_real/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:0F2A44,100:0E7490&height=210&section=header&text=Niraj%20Kumar&fontSize=56&fontColor=E6EDF3&fontAlignY=36&desc=Quantitative%20Research%20%C2%B7%20Statistical%20Modeling%20%C2%B7%20Time%20Series&descSize=16&descAlignY=57" width="100%" alt="Niraj Kumar — Quantitative Research · Statistical Modeling · Time Series" />
 
-</div>
+### Quantitative Research Consultant at WorldQuant
 
-<!-- My ASCII Profile -->
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&duration=3600&pause=1400&color=38BDF8&center=true&vCenter=true&width=560&height=40&lines=Systematic+Equity+Research;Statistical+Modeling+%26+Time+Series;Machine+Learning+for+Financial+Research;Markets+as+Complex+Adaptive+Systems" alt="Focus areas: systematic equity research, statistical modeling and time series, machine learning for financial research, markets as complex adaptive systems" />
 
-<div align="centre">
-  <img src="ascii.jpg" alt="My ASCII Profile">
+<a href="https://www.linkedin.com/in/nirajkofficial/"><img src="https://img.shields.io/badge/LinkedIn-0E7490?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="mailto:nirajkumar.official.001@gmail.com"><img src="https://img.shields.io/badge/Email-0F2A44?style=for-the-badge" alt="Email" /></a>
+<a href="https://github.com/Niraj-K-fin?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0B1220?style=for-the-badge" alt="Repositories" /></a>
+
 </div>
 
 <br>
 
-<!-- GitHub Stats -->
+I'm Niraj, and I work on systematic equity research: forming hypotheses about market behaviour, turning them into signals, and checking whether they hold up across universes and regimes. I'm drawn to statistical modeling, time series, and the question of what makes a signal robust rather than lucky. My background is computer science, which shapes how I think about the meeting point of mathematics, computation, and markets.
+
+---
+
+## 🔭 Research Interests
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Systematic_Equity_Signals-0B1220?style=for-the-badge" alt="Systematic Equity Signals" />
+  <img src="https://img.shields.io/badge/Statistical_Inference-0F2A44?style=for-the-badge" alt="Statistical Inference" />
+  <img src="https://img.shields.io/badge/Time--Series_Analysis-0E7490?style=for-the-badge" alt="Time-Series Analysis" />
+  <br>
+  <img src="https://img.shields.io/badge/Econometrics-0E7490?style=for-the-badge" alt="Econometrics" />
+  <img src="https://img.shields.io/badge/Signal_Robustness-0F2A44?style=for-the-badge" alt="Signal Robustness" />
+  <img src="https://img.shields.io/badge/Complex_Systems-0B1220?style=for-the-badge" alt="Complex Systems" />
+</p>
+
+<p align="center"><sub>Also exploring: statistical arbitrage and copula models of dependence.</sub></p>
+
+---
+
+## 🧭 Snapshot
+
+| | Role | Period |
+| :-: | --- | --- |
+| 📈 | **Quantitative Research Consultant**, WorldQuant<br><sub>Systematic equity signal research within WorldQuant BRAIN</sub> | Oct 2025 – present |
+| 🔬 | **Student Researcher**, LPU School of Computer Science Engineering | Apr 2026 – present |
+| 🎓 | **B.Tech, Computer Science**, Lovely Professional University<br><sub>Engineering Minor in Machine Learning · Open Minor in Financial Markets</sub> | Aug 2023 – Jun 2027 (expected) |
+
+---
+
+## 🧪 How I Work
+
+- **Start from a hypothesis.** An economic reason for a signal to exist comes before the backtest.
+- **Test the assumptions.** Neutralization, turnover, costs, and behaviour across regimes all shape whether a result is meaningful.
+- **Record the uncertainty.** Limitations and open questions belong alongside the result.
+
+---
+
+## 🛠️ Toolkit
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0B1220?style=for-the-badge&logo=cplusplus&logoColor=38BDF8" alt="C++" />
+  <br>
+  <img src="https://img.shields.io/badge/NumPy-0F2A44?style=for-the-badge&logo=numpy&logoColor=2DD4BF" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-0F2A44?style=for-the-badge&logo=pandas&logoColor=2DD4BF" alt="pandas" />
+  <img src="https://img.shields.io/badge/PyTorch-0F2A44?style=for-the-badge&logo=pytorch&logoColor=2DD4BF" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-0F2A44?style=for-the-badge&logo=scikitlearn&logoColor=2DD4BF" alt="scikit-learn" />
+  <br>
+  <img src="https://img.shields.io/badge/Git-0E7490?style=for-the-badge&logo=git&logoColor=E6EDF3" alt="Git" />
+</p>
+
+<p align="center"><sub>Languages · Research & data · Development tools</sub></p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Niraj-K-fin&background=0B1220&ring=2DD4BF&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=94A3B8&stroke=1E293B&hide_border=true&border_radius=8" alt="GitHub contribution streak for Niraj-K-fin" />
+</p>
+
+<p align="center"><sub>Public GitHub activity only. Research on WorldQuant BRAIN doesn't appear here.</sub></p>
+
+<p align="center">
+  <a href="https://github.com/Niraj-K-fin?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Repositories-0E7490?style=for-the-badge&logo=github&logoColor=E6EDF3" alt="Explore My Repositories" /></a>
+</p>
+
+---
+
+## 🏆 Selected Recognition
+
+- **International Quant Championship 2025** · ranked #1 at LPU
+- **INSPIRE Awards – MANAK** · awardee, 2019
+
+<details>
+<summary>Earlier</summary>
+
+<br>
+
+- Campus Ambassador, Teach For India (2024)
+- 5th position, 23rd National Children's Science Congress, national level (2015)
+
+</details>
+
+---
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="javascript:void(0);">
-          <img src="https://github-readme-stats.vercel.app/api?username=niraj-k-fin&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" />
-        </a>
-      </td>
-      <td>
-        <a href="javascript:void(0);">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niraj-K-fin"></img>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
-<!-- My Roadmap and Vision -->
-<h2> ⚡ From Code to Cosmos : My Visionary Journey Through Data and Innovation 🌠 </h2>
+**Let's talk** about quantitative research, statistical modeling, or markets as complex systems.<br>
+Reach me on [LinkedIn](https://www.linkedin.com/in/nirajkofficial/) or by [email](mailto:nirajkumar.official.001@gmail.com).
 
-```mermaid
-graph LR
-    A[🎓 Aug' 2023<br>Started CSE @ LPU] --> B[🌍 2024<br>Campus Ambassador<br>Teach For India]
-    B --> C[🧠 2025<br>Silver Contributor<br>WorldQuant BRAIN]
-    C --> D[💹 2025<br>Quant Strategy Builder<br>HealthTech ML Developer]
-    D --> E[🚀 2026<br>Scaling AI in<br>Finance & Healthcare]
-    E --> F[🔮 2027<br>DeFi & BioAI Innovator<br>Global Impact]
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,50:0F2A44,100:0B1220&height=110&section=footer" width="100%" alt="" />
 
-<!-- Skills and Domains Charting -->
-
-| Skill                | Level           | Progress              | Years of Exp | Used In Projects | Improving? | Last Updated  |
-|---------------------|-----------------|------------------------|--------------|------------------|------------|---------------|
-| 🐍 Python           | Mastery         | ▓▓▓▓▓▓▓▓▓░ 90%        | 3+ yrs       | ✅               | 🔁 Yes     | April 2025    |
-| 📉 Quant Finance    | Advanced        | ▓▓▓▓▓▓▓▓░░ 85%        | 2 yrs        | ✅               | ✅ Absolutely | May 2025   |
-| 🤖 Machine Learning | Intermediate    | ▓▓▓▓▓▓▓░░░ 70%        | 1.5 yrs      | ✅               | 🔁 Yes     | March 2025    |
-| 💊 HealthTech AI    | In Progress     | ▓▓▓▓▓░░░░░ 50%        | < 1 yr       | ✅               | ✅ Yes     | May 2025      |
-| 📈 Statistics       | Solid           | ▓▓▓▓▓▓▓▓░░ 80%        | 2 yrs        | ✅               | 🔁 Yes     | April 2025    |
-| 🧠 Problem Solving  | 🔥 Always Leveling | ▓▓▓▓▓▓▓▓▓▓ 100%     | Lifelong     | ✅               | 🔁 Always  | Ongoing       |
-
-
-<!-- My Tech Stack -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="65" height="65" />
-        <br>NumPy
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="65" height="65" />
-        <br>Pandas
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="65" height="65" />
-        <br>TensorFlow
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="65" height="65" />
-        <br>PyTorch
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65" />
-        <br>MySQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="65" height="65" />
-        <br>R
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="65" height="65" />
-        <br>GraphQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="Raspberry Pi" width="65" height="65" />
-        <br>Raspberry Pi
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-        <br>Java
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-        <br>C++
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
-        <br>C#
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-        <br>TypeScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="ReScript" width="65" height="65" />
-        <br>ReScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="65" height="65" />
-        <br>Sass
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-        <br>AWS
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-        <br>Docker
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Skills MindMap using Mermaid -->
-
-```mermaid
-mindmap
-  root((Skills))
-    AI & Data Science
-      Machine Learning
-        Reinforcement Learning
-        Time Series Analysis
-        Predictive Modeling
-        Deep Learning
-      Statistical Analysis
-      Data Visualization
-    Programming
-      Python
-      R
-      SQL
-      C++
-      Java
-      Haskell
-      JavaScript
-      TypeScript
-    Finance
-      Quantitative Finance
-      Alpha Research
-      Algorithmic Trading
-      Financial Modeling
-      Risk Management
-      Portfolio Theory
-    Mathematics
-      Statistical Methods
-      Econometrics
-      Optimization Algorithms
-      Linear Algebraa
-      Probability Theory
-      Stochastic Processes
-      Calculus
-      Numericaal Methods
-```
-<!-- Learning RoadMap using Mermaid -->
-
-```mermaid
-gantt
-    title Learning Roadmap 2025
-    dateFormat  YYYY-MM
-    section Deep Learning
-    Advanced RL Models           :2025-01, 3M
-    Time Series Forecasting     :2025-03, 3M
-    section Finance
-    Market Microstructure       :2025-01, 4M
-    Systematic Trading          :2025-04, 3M
-    section Mathematics
-    Stochastic Calculus         :2025-02, 4M
-    Advanced Econometrics       :2025-05, 3M
-```
-
-<!-- GitHuB Activity Graph -->
-
-<div align="center">
-  <a href="https://github.com/niraj-k-fin">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=niraj-k-fin&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" width="100%" height="100%>
-  </a>
-</div>
-
-<!-- Contact Me -->
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/nirajkofficial" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nirajkumar.official.001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
-
-<!-- Random Quote Updates with Footer Animation -->
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
-```bash
-
- __  __           _                 _ _   _       _                   
-|  \/  | __ _  __| | ___  __      _(_) |_| |__   | |    _____   _____ 
-| |\/| |/ _` |/ _` |/ _ \ \ \ /\ / / | __| '_ \  | |   / _ \ \ / / _ \
-| |  | | (_| | (_| |  __/  \ V  V /| | |_| | | | | |__| (_) \ V /  __/
-|_|  |_|\__,_|\__,_|\___|   \_/\_/_|_|\__|_| |_| |_____\___/ \_/ \___|
-| |__  _   _  | \ | (_)_ __ __ _ (_) | |/ /   _ _ __ ___   __ _ _ __  
-| '_ \| | | | |  \| | | '__/ _` || | | ' / | | | '_ ` _ \ / _` | '__| 
-| |_) | |_| | | |\  | | | | (_| || | | . \ |_| | | | | | | (_| | |    
-|_.__/ \__, | |_| \_|_|_|  \__,_|/ | |_|\_\__,_|_| |_| |_|\__,_|_|    
- /\/|  |___/                   |__/ ____ _             _   _       _  
-|/\/  | \ | | _____   _____ _ __   / ___(_)_   _____  | | | |_ __ | | 
-      |  \| |/ _ \ \ / / _ \ '__| | |  _| \ \ / / _ \ | | | | '_ \| | 
-      | |\  |  __/\ V /  __/ |    | |_| | |\ V /  __/ | |_| | |_) |_| 
-      |_| \_|\___| \_/ \___|_|     \____|_| \_/ \___|  \___/| .__/(_) 
-                                                            |_|       
-
-```
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer" width="100%">
 </div>
