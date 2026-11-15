@@ -10,15 +10,17 @@
 <a href="mailto:nirajkumar.official.001@gmail.com"><img src="https://img.shields.io/badge/Email-0F2A44?style=for-the-badge" alt="Email" /></a>
 <a href="https://github.com/Niraj-K-fin?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0B1220?style=for-the-badge" alt="Repositories" /></a>
 
+<br><br>
+
+I'm Niraj. I work on systematic equity research: forming hypotheses about market behaviour, turning them into signals, and testing whether they hold up across universes and regimes. With a computer science background, I'm most interested in statistical modeling, time series, and what makes a signal robust rather than lucky.
+
+<sub><b>Hypothesis first</b> &nbsp;·&nbsp; <b>Test the assumptions</b> &nbsp;·&nbsp; <b>Record the uncertainty</b></sub>
+
 </div>
 
 <br>
 
-I'm Niraj, and I work on systematic equity research: forming hypotheses about market behaviour, turning them into signals, and checking whether they hold up across universes and regimes. I'm drawn to statistical modeling, time series, and the question of what makes a signal robust rather than lucky. My background is computer science, which shapes how I think about the meeting point of mathematics, computation, and markets.
-
----
-
-## 🔭 Research Interests
+<h2 align="center">🔭 Research Interests</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Systematic_Equity_Signals-0B1220?style=for-the-badge" alt="Systematic Equity Signals" />
@@ -28,78 +30,60 @@ I'm Niraj, and I work on systematic equity research: forming hypotheses about ma
   <img src="https://img.shields.io/badge/Econometrics-0E7490?style=for-the-badge" alt="Econometrics" />
   <img src="https://img.shields.io/badge/Signal_Robustness-0F2A44?style=for-the-badge" alt="Signal Robustness" />
   <img src="https://img.shields.io/badge/Complex_Systems-0B1220?style=for-the-badge" alt="Complex Systems" />
+  <br>
+  <sub>Also exploring: statistical arbitrage and copula models of dependence</sub>
 </p>
 
-<p align="center"><sub>Also exploring: statistical arbitrage and copula models of dependence.</sub></p>
+<br>
 
----
+<h2 align="center">🛠️ Toolkit</h2>
 
-## 🧭 Snapshot
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,sklearn,git&theme=dark" alt="Python, C++, PyTorch, scikit-learn, Git" />
+  <br>
+  <sub>Python · C++ · NumPy · pandas · PyTorch · scikit-learn · Git</sub>
+</p>
+
+<br>
+
+<h2 align="center">🧭 Snapshot</h2>
 
 | | Role | Period |
 | :-: | --- | --- |
 | 📈 | **Quantitative Research Consultant**, WorldQuant<br><sub>Systematic equity signal research within WorldQuant BRAIN</sub> | Oct 2025 – present |
 | 🔬 | **Student Researcher**, LPU School of Computer Science Engineering | Apr 2026 – present |
-| 🎓 | **B.Tech, Computer Science**, Lovely Professional University<br><sub>Engineering Minor in Machine Learning · Open Minor in Financial Markets</sub> | Aug 2023 – Jun 2027 (expected) |
-
----
-
-## 🧪 How I Work
-
-- **Start from a hypothesis.** An economic reason for a signal to exist comes before the backtest.
-- **Test the assumptions.** Neutralization, turnover, costs, and behaviour across regimes all shape whether a result is meaningful.
-- **Record the uncertainty.** Limitations and open questions belong alongside the result.
-
----
-
-## 🛠️ Toolkit
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-0B1220?style=for-the-badge&logo=cplusplus&logoColor=38BDF8" alt="C++" />
-  <br>
-  <img src="https://img.shields.io/badge/NumPy-0F2A44?style=for-the-badge&logo=numpy&logoColor=2DD4BF" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-0F2A44?style=for-the-badge&logo=pandas&logoColor=2DD4BF" alt="pandas" />
-  <img src="https://img.shields.io/badge/PyTorch-0F2A44?style=for-the-badge&logo=pytorch&logoColor=2DD4BF" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-0F2A44?style=for-the-badge&logo=scikitlearn&logoColor=2DD4BF" alt="scikit-learn" />
-  <br>
-  <img src="https://img.shields.io/badge/Git-0E7490?style=for-the-badge&logo=git&logoColor=E6EDF3" alt="Git" />
-</p>
-
-<p align="center"><sub>Languages · Research & data · Development tools</sub></p>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Niraj-K-fin&background=0B1220&ring=2DD4BF&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=94A3B8&stroke=1E293B&hide_border=true&border_radius=8" alt="GitHub contribution streak for Niraj-K-fin" />
-</p>
-
-<p align="center"><sub>Public GitHub activity only. Research on WorldQuant BRAIN doesn't appear here.</sub></p>
-
-<p align="center">
-  <a href="https://github.com/Niraj-K-fin?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Repositories-0E7490?style=for-the-badge&logo=github&logoColor=E6EDF3" alt="Explore My Repositories" /></a>
-</p>
-
----
-
-## 🏆 Selected Recognition
-
-- **International Quant Championship 2025** · ranked #1 at LPU
-- **INSPIRE Awards – MANAK** · awardee, 2019
-
-<details>
-<summary>Earlier</summary>
+| 🎓 | **B.Tech, Computer Science**, Lovely Professional University<br><sub>Minors in Machine Learning (Engineering) and Financial Markets (Open)</sub> | Aug 2023 – Jun 2027 (expected) |
 
 <br>
 
-- Campus Ambassador, Teach For India (2024)
-- 5th position, 23rd National Children's Science Congress, national level (2015)
+<h2 align="center">📊 GitHub Activity</h2>
 
-</details>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niraj-K-fin&theme=github_dark" width="100%" alt="GitHub profile summary and contribution trend for Niraj-K-fin" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niraj-K-fin&theme=github_dark" width="49%" alt="GitHub statistics for Niraj-K-fin" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niraj-K-fin&theme=github_dark&utcOffset=5.5" width="49%" alt="Commit times by hour (IST) for Niraj-K-fin" />
+</p>
+
+<p align="center">
+  <sub>Public GitHub activity only. Research on WorldQuant BRAIN doesn't appear here.</sub>
+  <br><br>
+  <a href="https://github.com/Niraj-K-fin?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Repositories-0E7490?style=for-the-badge&logo=github&logoColor=E6EDF3" alt="Explore My Repositories" /></a>
+</p>
+
+<br>
+
+<h2 align="center">🏆 Selected Recognition</h2>
+
+<p align="center">
+  <b>International Quant Championship 2025</b> · ranked #1 at LPU
+  <br>
+  <b>INSPIRE Awards – MANAK</b> · awardee, 2019
+</p>
+
+<br>
 
 <div align="center">
 
